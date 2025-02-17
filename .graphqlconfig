@@ -1,0 +1,11 @@
+
+  "name": "FutureEcho",
+  "schemaPath": "Networking/Schema/schema.graphqls",
+  "extensions": {
+    "endpoints": {
+      "SpaceX": {
+        "url": "https://api.spacex.land/graphql/"
+      }
+    }
+  }
+}
